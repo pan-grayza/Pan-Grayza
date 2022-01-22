@@ -1,14 +1,11 @@
 # Hi there 👋, my name is Stepan
-#### I am Front-End Developer
+### I am Front-End Developer
 
 I'm Stepan from Ukraine. I'm sort of Front-End Developer,
 that enjoys studying something new about design, programing and science.
 
-##Skills
+## Skills
 * 💻 HTML, CSS, JS
-
-
-- 🔭 I’m currently working on this page. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pan-Grayza)](https://github.com/anuraghazra/github-readme-stats)
 
