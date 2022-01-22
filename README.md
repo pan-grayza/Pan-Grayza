@@ -1,9 +1,12 @@
-### Hi there 👋, my name is Stepan
+# Hi there 👋, my name is Stepan
 #### I am Front-End Developer
 
-I'm Stepan from Ukraine. I'm sort of Front-End Developer, that enjoys studying something new about design, programing and science.
+I'm Stepan from Ukraine. I'm sort of Front-End Developer,
+that enjoys studying something new about design, programing and science.
 
-Skills:  JS / HTML / CSS
+##Skills
+* 💻 HTML, CSS, JS
+
 
 - 🔭 I’m currently working on this page. 
 
