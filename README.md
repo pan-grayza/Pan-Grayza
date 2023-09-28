@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Stepan
-### I'm from Ukraine. I'm a Front-End Developer,
+### I'm a Front-End Developer,
 ### that enjoys learning new things about design, programing and science.
 
 ## Languages and Tools:
